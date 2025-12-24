@@ -86,7 +86,7 @@ Display the results.
 
 <img width="1314" height="568" alt="Screenshot 2025-12-24 164444" src="https://github.com/user-attachments/assets/7ac148fc-da71-45ff-8dfc-ebdcd2a6f9ea" />
 
-<img width="1339" height="385" alt="Screenshot 2025-12-24 164459" src="https://github.com/user-attachments/assets/24330807-5699-4604-8f20-b687a9971491" />
+
 
 <img width="1297" height="594" alt="Screenshot 2025-12-24 164511" src="https://github.com/user-attachments/assets/42ae084f-11f5-4781-b234-a7458a05b7e9" />
 
